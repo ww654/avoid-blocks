@@ -6,7 +6,7 @@ pygame.init()
 # 窗口
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("升级版：躲避方块")
+pygame.display.set_caption("Avoid_blocks")
 
 # 玩家
 player_size = 20
