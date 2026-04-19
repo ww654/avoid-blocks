@@ -1,2 +1,2 @@
-# avoid-blocks
-A simple game --you dodge blocks by manipulating the keyboard
+# Mouse VS Cat
+A simple game --you dodge cats(not dogs or cockatiers) by manipulating the keyboard
